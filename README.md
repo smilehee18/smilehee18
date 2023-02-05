@@ -1,7 +1,3 @@
-### Hi there 👋
-
-**smilehee18/smilehee18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&theme=gruvbox_light&height=300&section=header&text=Welcome%20to%20smilehee18%20profile!&desc=Here%20is%20my%20introduction!&fontSize=50)
 
 
