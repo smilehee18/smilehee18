@@ -1,6 +1,6 @@
 <div align= "center">
    <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFC0CB&height=60&text=No%20Pain,%20No%20Gain&animation=twinkling&fontColor=FFFFFF&fontSize=35" />
-    <br> <br>
+<!--     <br> <br>
     <a href="https://solved.ac/smilehee18/">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=smilehee18" />
     </a>
@@ -40,6 +40,6 @@
     <a href="https://www.youtube.com/@smilehee18">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
     </a>
-    </div>
+    </div> -->
 </div>
     
